@@ -1,0 +1,171 @@
+@startuml
+
+
+
+
+
+/' Objects '/
+
+abstract class benefit {
+	+benefit()
+	+~benefit()
+	+{abstract} calculateBenefit() : double
+	#m_amount : double
+	+displayBenefit() : string
+	#m_info : string
+	#m_planType : string
+	+setBenefit() : void
+}
+
+
+class commissionEmployee {
+	+getSalary() : double
+	-m_rate : double
+	-m_target : double
+	+getDetails() : string
+	+setDetails(int) : void
+}
+
+
+class dentalBenefit {
+	+calculateBenefit() : double
+	+displayBenefit() : string
+}
+
+
+class department {
+	+department()
+	+department(unsigned int, string)
+	+~department()
+	+getId() : int
+	+getname() : string
+	-m_name : string
+	-m_id : unsigned int
+	+print() : void
+	+read() : void
+}
+
+
+abstract class employee {
+	+employee()
+	+~employee()
+	#benefitList : benefit**
+	+addBenefit() : bool
+	#m_department : department*
+	+{abstract} getSalary() : double
+	+totalBenefit() : double
+	#m_benefitCount : int
+	#m_benefitSize : int
+	+getDetails() : string
+	#m_email : string
+	#m_jopTitle : string
+	#m_name : string
+	#m_phone : string
+	#m_id : unsigned int
+	+deleteBenefit(int) : void
+	+editBenefit(int) : void
+	+getBenefit() : void
+	+setDepartment(department*) : void
+	+setDetails(int) : void
+	+setId(int) : void
+}
+
+
+class healthBenefit {
+	+calculateBenefit() : double
+	+displayBenefit() : string
+	-m_coverge : string
+	+setBenefit() : void
+}
+
+
+class hourlyEmployee {
+	+getSalary() : double
+	-m_hourWorked : double
+	-m_rate : double
+	+getDetails() : string
+	+addHours(double) : void
+	+setDetails(int) : void
+}
+
+
+class hrSystem {
+	+hrSystem(int)
+	+~hrSystem()
+	-staff : employee**
+	-m_staffCount : unsigned int
+	-m_staffSize : unsigned int
+	+addEmployee() : void
+	+assiagndeparttoemp(int, department*) : void
+	+benefitmanager(int, int, int) : void
+	+deleteEmployee(int) : void
+	+editEmployee(int) : void
+	+printall() : void
+	+printany(int) : void
+	+totalpay() : void
+}
+
+
+class managerEmployee {
+	+getSalary() : double
+	#m_bouns : double
+	+getDetails() : string
+	+addBouns(double) : void
+	+setDetails(int) : void
+}
+
+
+class salariedEmployee {
+	+getSalary() : double
+	#m_salary : double
+	+getDetails() : string
+	+setDetails(int) : void
+}
+
+
+
+
+
+/' Inheritance relationships '/
+
+.benefit <|-- .dentalBenefit
+
+
+.benefit <|-- .healthBenefit
+
+
+.employee <|-- .commissionEmployee
+
+
+.employee <|-- .hourlyEmployee
+
+
+.employee <|-- .salariedEmployee
+
+
+.salariedEmployee <|-- .managerEmployee
+
+
+
+
+
+/' Aggregation relationships '/
+
+.employee o-- .benefit
+
+
+.employee o-- .department
+
+
+.hrSystem o-- .employee
+
+
+
+
+
+
+/' Nested objects '/
+
+
+
+@enduml

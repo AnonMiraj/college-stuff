@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmain_library.a CMakeFiles/main_library.dir/src/carSys.cpp.o CMakeFiles/main_library.dir/src/car.cpp.o CMakeFiles/main_library.dir/src/customer.cpp.o CMakeFiles/main_library.dir/src/invoice.cpp.o CMakeFiles/main_library.dir/src/rentalagreement.cpp.o CMakeFiles/main_library.dir/src/reservation.cpp.o
+/usr/bin/ranlib libmain_library.a

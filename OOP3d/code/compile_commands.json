@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ezz/OOP3dr/code/.build",
+  "command": "/usr/bin/c++  -I/home/ezz/OOP3dr/code/include  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ezz/OOP3dr/code/src/main.cpp",
+  "file": "/home/ezz/OOP3dr/code/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]

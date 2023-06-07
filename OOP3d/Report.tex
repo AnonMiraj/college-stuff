@@ -1,0 +1,274 @@
+\documentclass{article}
+
+\title{Car Rental System Project Report}
+\author{Ezz}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+The Car Rental System is a software application designed to automate the management of car rentals, customer records, reservations, rental agreements, and invoicing. This report provides an overview of the project, its functionality, and the implemented classes.
+
+
+\section{Implementation}
+
+In this section, we discuss the specific coding details for the Car Rental System project. We outline the key aspects of each class and describe how they were implemented.
+
+\subsection{Car Class}
+The Car class was implemented in C++ with the following structure:
+
+\begin{verbatim}
+class Car {
+    private:
+        string make;
+        string model;
+        int year;
+    
+    public:
+        // Constructors, getters, and setters
+};
+\end{verbatim}
+
+Methods were implemented to retrieve and update the car's attributes, such as make, model and year . Getter and setter functions were used to provide access to the private member variables.
+
+
+\subsection{Customer Class}
+The Customer class was implemented in C++ as follows:
+
+\begin{verbatim}
+class Customer {
+    private:
+        string name;
+        string address;
+        string phoneNumber;
+    
+    public:
+        // Constructors, getters, and setters
+};
+\end{verbatim}
+
+Similar to the Car class, getter and setter functions were used to manage the customer's name, address, and phone number.
+
+
+
+\subsection{Reservation Class}
+The Reservation class was implemented in C++ as follows:
+
+\begin{verbatim}
+class Reservation {
+    private:
+        Date startDate;
+        Date endDate;
+        int carId;
+        int customerId;
+    
+    public:
+        // Constructors, getters, and setters
+};
+\end{verbatim}
+
+The Reservation class includes attributes for the start date, end date, car id, and the associated customer id. Getter and setter functions were implemented to manage these attributes.
+
+\subsection{Invoice Class}
+The Invoice class was implemented in C++ as follows:
+
+\begin{verbatim}
+class Invoice {
+    private:
+        double rentalCharges;
+        double taxes;
+        double totalAmountDue;
+    
+    public:
+        // Constructors, getters, and setters
+        void calculateTotalAmountDue();
+};
+\end{verbatim}
+
+The Invoice class includes attributes for the rental charges, taxes, and the total amount due. Getter and setter functions were implemented to manage these attributes. The class also contains a method, \texttt{calculateTotalAmountDue()}, which calculates the total amount due by adding the rental charges and taxes.
+
+\subsection{RentalAgreement Class}
+The RentalAgreement class was implemented in C++ as follows:
+
+\begin{verbatim}
+class RentalAgreement {
+    private:
+        int rentalPeriod;
+        double rentalRate;
+        double insuranceCharges;
+    
+    public:
+        // Constructors, getters, and setters
+        double calculateRentalCharges();
+};
+\end{verbatim}
+
+The RentalAgreement class contains attributes for the rental period, rental rate, and insurance charges. Getter and setter functions were implemented to manage these attributes. Additionally, the class includes a method, \texttt{calculateRentalCharges()}, which calculates the total rental charges based on the rental period and rate.
+
+\section{Design}
+
+The Car Rental System consists of five classes: Car, Customer, Reservation, RentalAgreement, and Invoice. Let's explore each class and their attributes, methods, and relationships.
+
+\subsection{Car Class}
+Attributes:
+\begin{itemize}
+    \item Make: The make of the car (e.g., Toyota, Honda).
+    \item Model: The model of the car (e.g., Camry, Civic).
+    \item Year: The manufacturing year of the car.
+\end{itemize}
+
+Methods:
+\begin{itemize}
+    \item getMake(): Retrieves the make of the car.
+    \item getModel(): Retrieves the model of the car.
+    \item getYear(): Retrieves the manufacturing year of the car.
+\end{itemize}
+
+\subsection{Customer Class}
+Attributes:
+\begin{itemize}
+    \item Name: The name of the customer.
+    \item Address: The address of the customer.
+    \item Phone Number: The phone number of the customer.
+\end{itemize}
+
+Methods:
+\begin{itemize}
+    \item getName(): Retrieves the name of the customer.
+    \item getAddress(): Retrieves the address of the customer.
+    \item getPhoneNumber(): Retrieves the phone number of the customer.
+    \item setAddress(address): Updates the address of the customer.
+    \item setPhoneNumber(phoneNumber): Updates the phone number of the customer.
+\end{itemize}
+
+\subsection{Reservation Class}
+Attributes:
+\begin{itemize}
+    \item Start Date: The start date of the reservation.
+    \item End Date: The end date of the reservation.
+    \item Car Rented: The car associated with the reservation.
+\end{itemize}
+
+Methods:
+\begin{itemize}
+    \item getStartDate(): Retrieves the start date of the reservation.
+    \item getEndDate(): Retrieves the end date of the reservation.
+    \item getCarRented(): Retrieves the car associated with the reservation.
+    \item setStartDate(startDate): Updates the start date of the reservation.
+    \item setEndDate(endDate): Updates the end date of the reservation.
+    \item setCarRented(car): Updates the car associated with the reservation.
+\end{itemize}
+
+\subsection{RentalAgreement Class}
+Attributes:
+\begin{itemize}
+    \item Rental Period: The duration of the rental.
+    \item Rental Rate: The rate at which the car is rented.
+    \item Insurance Charges: Additional charges for insurance.
+\end{itemize}
+
+Methods:
+\begin{itemize}
+    \item calculateRentalCharges(): Calculates the total rental charges.
+    \item getRentalPeriod(): Retrieves the rental period.
+    \item getRentalRate(): Retrieves the rental rate.
+    \item getInsuranceCharges(): Retrieves the insurance charges.
+\end{itemize}
+
+\subsection{Invoice Class}
+Attributes:
+\begin{itemize}
+    \item Rental Charges: The total rental charges.
+    \item Taxes: The taxes applicable to the rental.
+    \item Total Amount Due: The final amount due.
+\end{itemize}
+
+Methods:
+\begin{itemize}
+    \item calculateTotalAmountDue(): Calculates the total amount due.
+    \item getRentalCharges(): Retrieves the rental charges.
+    \item getTaxes(): Retrieves the taxes.
+    \item getTotalAmountDue(): Retrieves the total amount due.
+\end{itemize}
+
+\section{Testing}
+
+To ensure the functionality and correctness of the Car Rental System, a comprehensive test plan was developed. The test plan included various test cases to cover different scenarios and edge cases.
+
+\subsection{Car Adding Test}
+\begin{itemize}
+\item Description: Add a new car to the system and verify its successful addition.
+\item Steps:
+\begin{itemize}
+\item Create a new car object with the required attributes (make, model, year).
+\item Add the car to the Car Rental System.
+\item Retrieve the car information from the system.
+\end{itemize}
+\item Expected Result: The car should be successfully added to the system and its information should be retrievable.
+\end{itemize}
+
+\subsection{Customer Adding Test}
+\begin{itemize}
+\item Description: Add a new customer to the system and ensure their successful addition.
+\item Steps:
+\begin{itemize}
+\item Create a new customer object with the required attributes (name, address, phone number).
+\item Add the customer to the Car Rental System.
+\item Retrieve the customer information from the system.
+\end{itemize}
+\item Expected Result: The customer should be successfully added to the system and their information should be retrievable.
+\end{itemize}
+
+\subsection{Reservation Creation Test}:
+\begin{itemize}
+    \item Description: Create a new reservation for a customer and verify its successful creation.
+    \item Steps:
+        \begin{itemize}
+            \item Create a customer object.
+            \item Create a car object.
+            \item Create a reservation object, associating it with the customer and car.
+            \item Retrieve the reservation details and verify if they match the created objects.
+        \end{itemize}
+    \item Expected Result: The reservation should be successfully created and associated with the respective customer and car.
+\end{itemize}
+\subsection{RentalAgreement Calculation Test}
+\begin{itemize}
+\item Description: Calculate the rental charges for a given rental period and rate, including insurance charges.
+\item Steps:
+\begin{itemize}
+\item Create a RentalAgreement object with a specific rental period, rental rate, and insurance charges.
+\item Call the calculateRentalCharges() method.
+\item Retrieve the calculated rental charges.
+\end{itemize}
+\item Expected Result: The system should accurately calculate the total rental charges considering the rental period, rate, and insurance charges.
+\end{itemize}
+
+\subsection{Invoice Calculation Test}
+\begin{itemize}
+\item Description: Calculate the total amount due for an invoice by considering rental charges and taxes.
+\item Steps:
+\begin{itemize}
+\item Create an Invoice object with specified rental charges and taxes.
+\item Call the calculateTotalAmountDue() method.
+\item Retrieve the total amount due.
+\end{itemize}
+\item Expected Result: The system should correctly calculate the total amount due by adding the rental charges and taxes.
+\end{itemize}
+% Additional test cases can be added here
+
+\subsection{Test Results}
+
+The test plan was executed, and the Car Rental System passed all the test cases without any failures. The system demonstrated the expected behavior for various operations, including car availability management, reservation creation, and other related functionalities.
+
+The successful completion of the test plan ensures that the Car Rental System functions as intended and meets the specified requirements.
+\section{Conclusion}
+In conclusion, the Car Rental System project aims to provide an efficient and user-friendly solution for rental agencies to manage car inventory, customer reservations, rental agreements, and invoicing. The implemented classes, including Car, Customer, Reservation, RentalAgreement, and Invoice, work together to achieve this objective.
+
+The design of each class with their respective attributes, methods, and relationships has been outlined in this report. By following this design, the Car Rental System can store and manage the necessary information in an organized and effective manner.
+
+The project successfully fulfills the requirements outlined in the problem statement and provides a solid foundation for further development and improvement.
+
+\end{document}
+

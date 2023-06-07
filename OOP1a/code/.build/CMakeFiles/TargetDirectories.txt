@@ -1,0 +1,4 @@
+/home/ezz/OOP1a/.build/CMakeFiles/main_library.dir
+/home/ezz/OOP1a/.build/CMakeFiles/main.dir
+/home/ezz/OOP1a/.build/CMakeFiles/edit_cache.dir
+/home/ezz/OOP1a/.build/CMakeFiles/rebuild_cache.dir
