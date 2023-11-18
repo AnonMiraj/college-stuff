@@ -1,0 +1,330 @@
+6
+1
+To Kill a Mockingbird
+Harper Lee
+Classic Fiction
+978-0-06-112008-4
+"To Kill a Mockingbird" is a classic novel that explores themes of racial injustice and moral growth in the American South during the 1930s. It is narrated by Scout Finch, a young girl who observes her father, Atticus Finch, defending a black man accused of raping a white woman. The book is a poignant portrayal of social issues and a coming-of-age story set against a backdrop of prejudice and injustice.
+0
+2
+1984
+George Orwell
+Dystopian Fiction
+978-0-452-28423-4
+"1984" is a dystopian novel that presents a bleak vision of a totalitarian society where the government, led by Big Brother, exercises complete control over every aspect of people's lives. George Orwell's work delves into themes of censorship, surveillance, and the loss of individual freedoms. The novel has become a classic in the genre and a cautionary tale about the dangers of authoritarianism.
+0
+3
+The Great Gatsby
+F. Scott Fitzgerald
+Jazz Age Fiction
+978-0-7432-7356-5
+"The Great Gatsby" is a classic novel set in the roaring 1920s, often referred to as the Jazz Age. It tells the story of Jay Gatsby, a mysterious millionaire, and his obsession with the beautiful Daisy Buchanan. F. Scott Fitzgerald's novel explores themes of wealth, ambition, love, and the American Dream, while also providing a vivid portrait of the decadence and excess of the era.
+0
+4
+Re:Zero
+Tappei Nagatsuki
+Isekai Fantasy
+None
+"Re:Zero - Starting Life in Another World" is an isekai fantasy light novel series that follows Subaru Natsuki, who is transported to a parallel world. Subaru discovers he has the unique ability to return from death, allowing him to navigate dangerous situations and try to save the people he cares about. Tappei Nagatsuki's work is known for its complex characters and exploration of themes like sacrifice, trauma, and the consequences of one's choices.
+0
+5
+Pride and Prejudice
+Jane Austen
+Classic Romance
+978-0-486-45632-0
+"Pride and Prejudice" is a timeless romance novel that follows the life of Elizabeth Bennet, a headstrong and independent young woman, and her complex relationship with the enigmatic Mr. Darcy. Jane Austen's work delves into themes of love, class, and societal expectations, and it remains a beloved classic in the world of literature.
+0
+6
+Mushoku Tensei
+Rifujin na Magonote
+Isekai Fantasy
+None
+"Mushoku Tensei: Jobless Reincarnation" is an isekai fantasy light novel series that tells the story of Rudeus Greyrat, a man who is reincarnated into a new world with all of his memories intact. Determined to make the most of his second chance at life, he sets out on a journey of self-improvement and adventure. Rifujin na Magonote's work explores themes of redemption, personal growth, and the pursuit of one's dreams.
+0
+7
+Omniscient Reader
+Sing-Shong
+Korean Web Novel
+None
+"Omniscient Reader’s Viewpoint" is a Korean web novel that follows the life of Kim Dokja, who, after reading a web novel for over a decade, suddenly finds himself living within its pages. As he navigates the story's world, he must make choices to ensure the characters' survival and prevent the apocalypse. Sing-Shong's work delves into themes of storytelling, destiny, and the power of readers to influence the narrative.
+1
+8
+The Catcher in the Rye
+J.D. Salinger
+Coming-of-Age Fiction
+978-0-316-76948-0
+"The Catcher in the Rye" is a coming-of-age novel narrated by Holden Caulfield, a disenchanted teenager. The story unfolds as Holden leaves his boarding school and embarks on a journey of self-discovery in New York City. J.D. Salinger's work explores themes of alienation, identity, and the challenges of growing up.
+1
+9
+JoJo Over Heaven
+Nisio Isin
+Light Novel
+None
+"JoJo's Bizarre Adventure: Over Heaven" is a light novel set in the popular "JoJo's Bizarre Adventure" universe. Written by Nisio Isin, this novel explores an alternate take on the series' events and characters, offering a fresh perspective on the iconic battles, stands, and unique storytelling that "JoJo's Bizarre Adventure" is known for. While it doesn't belong to the main canon of the series,it provides fans with an exciting and imaginative journey through the JoJo world.
+1
+10
+Lord of the Flies
+William Golding
+Allegorical Fiction
+978-0-399-53021-7
+"Lord of the Flies" is an allegorical novel that follows a group of British boys stranded on a deserted island after a plane crash. As they struggle to survive and create a society, their inherent human nature and the descent into savagery become central themes. William Golding's book serves as a compelling exploration of the darker aspects of human behavior.
+1
+11
+The Hobbit
+J.R.R. Tolkien
+Fantasy Adventure
+978-0-618-00221-4
+"The Hobbit" is a fantasy adventure novel that introduces readers to the world of Middle-earth. Bilbo Baggins, a hobbit, is unexpectedly thrust into an epic quest to help a group of dwarves reclaim their homeland from the dragon Smaug. J.R.R. Tolkien's work is known for its rich world-building and compelling storytelling.
+1
+12
+The Night Circus
+Erin Morgenstern
+Fantasy
+978-0-307-88773-5
+"The Night Circus" is a fantasy novel that revolves around a mysterious and enchanting circus, which is only open at night. The circus serves as the stage for a magical competition between two young illusionists, Celia and Marco, who are bound by a powerful and potentially deadly connection. Erin Morgenstern's work weaves a tale of wonder, love, and extraordinary abilities.
+1
+13
+The Hunger Games
+Suzanne Collins
+Young Adult Dystopian Fiction
+978-0-439-02349-8
+"The Hunger Games" is a young adult dystopian novel set in a post-apocalyptic world where the Capitol forces children to participate in a brutal televised competition. The story follows Katniss Everdeen, a young girl who becomes a symbol of resistance against the oppressive regime. Suzanne Collins' work explores themes of power, rebellion, and survival.
+1
+14
+The Kite Runner
+Khaled Hosseini
+Contemporary Fiction
+978-1-59448-000-3
+"The Kite Runner" is a contemporary novel that follows the friendship between Amir and Hassan in war-torn Afghanistan. The story explores themes of betrayal, redemption, and the enduring impact of one's past. Khaled Hosseini's work is a powerful narrative of guilt and the quest for forgiveness.
+1
+15
+Brave New World
+Aldous Huxley
+Dystopian Science Fiction
+978-0-06-085052-4
+"Brave New World" is a dystopian science fiction novel that envisions a society where people are conditioned from birth to conform to a strict social order. Aldous Huxley's work examines the consequences of a world driven by consumerism, technology, and the loss of individuality.
+1
+16
+The Book Thief
+Markus Zusak
+Historical Fiction
+978-0-375-83100-3
+"The Book Thief" is a historical novel set in Nazi Germany and narrated by Death. It follows the life of Liesel Meminger, a young girl who steals books and shares them with others during a time of great hardship. Markus Zusak's work is a moving portrayal of the power of words, resilience, and humanity.
+1
+17
+The Road
+Cormac McCarthy
+Post-Apocalyptic Fiction
+978-0-307-26543-2
+"The Road" is a post-apocalyptic novel that follows a father and son's journey through a desolate, ashen landscape. They face unimaginable challenges while trying to survive and maintain their humanity. Cormac McCarthy's work is a harrowing exploration of love, hope, and the enduring human spirit in the face of extreme adversity.
+1
+18
+The Silent Patient
+Alex Michaelides
+Psychological Thriller
+978-1-250-30169-7
+"The Silent Patient" is a psychological thriller that centers around Alicia Berenson, a successful painter who brutally murders her husband and then stops speaking. The story unfolds as her therapist, Theo Faber, attempts to unravel the mystery of her silence and uncover the truth. Alex Michaelides' work is a gripping exploration of trauma and the human psyche.
+1
+19
+Moby-Dick
+Herman Melville
+Adventure Fiction
+978-0-14-243724-7
+"Moby-Dick" is an epic adventure novel that tells the story of Captain Ahab's relentless quest for the great white whale, Moby Dick. Herman Melville's work delves into themes of obsession, fate, and the consequences of pursuing an unattainable goal.
+1
+20
+The Goldfinch
+Donna Tartt
+Literary Fiction
+978-0-316-05541-9
+"The Goldfinch" is a literary novel that follows the life of Theo Decker, who survives a terrorist attack at a museum and becomes obsessed with a stolen painting, "The Goldfinch." Donna Tartt's work delves into themes of art, loss, and the journey to find meaning in a chaotic world.
+1
+21
+The Lord of the Rings
+J.R.R. Tolkien
+Epic Fantasy
+978-0-618-34323-4
+"The Lord of the Rings" is an epic fantasy trilogy that follows the journey of Frodo Baggins as he sets out to destroy the One Ring and thwart the dark lord Sauron's plans. J.R.R. Tolkien's work is celebrated for its intricate world-building, rich mythology, and the timeless battle between good and evil.
+1
+22
+Educated
+Tara Westover
+Memoir
+978-0-399-59050-4
+"Educated" is a memoir that recounts Tara Westover's journey from a strict and abusive household in rural Idaho to her pursuit of education and self-discovery. Despite lacking a formal education, she ultimately earns a Ph.D. from Cambridge University. Tara Westover's work is a powerful testament to the transformative power of learning and the human spirit.
+1
+23
+The Secret History
+Donna Tartt
+Campus Novel
+978-0-449-90250-0
+"The Secret History" is a campus novel that revolves around a group of classics students at an elite New England college who become involved in a murder. Donna Tartt's work explores themes of obsession, privilege, and the consequences of pushing moral boundaries.
+1
+24
+The Girl on the Train
+Paula Hawkins
+Thriller
+978-1-59463-402-4
+"The Girl on the Train" is a thriller that follows the intertwined lives of three women, each with their own secrets and struggles. The story is told from multiple perspectives and involves a mysterious disappearance. Paula Hawkins' work is a gripping and suspenseful exploration of memory, perception, and deception.
+1
+25
+The Martian
+Andy Weir
+Science Fiction
+978-0-8041-3902-1
+"The Martian" is a science fiction novel that follows astronaut Mark Watney, who becomes stranded on Mars and must use his ingenuity to survive until rescue is possible. Andy Weir's work is a thrilling tale of problem-solving, resilience, and the human spirit in the face of extreme isolation.
+1
+26
+Norwegian Wood
+Haruki Murakami
+Contemporary Literature
+978-0-307-78799-6
+"Norwegian Wood" is a contemporary novel that explores the life of Toru Watanabe and his relationships with two women, Naoko and Midori. Set in 1960s Tokyo, Haruki Murakami's work delves into themes of love, loss, and the emotional complexities of youth.
+1
+27
+The Handmaid's Tale
+Margaret Atwood
+Dystopian Fiction
+978-0-385-49081-8
+"The Handmaid's Tale" is a dystopian novel set in a theocratic society where women have been stripped of their rights and are used for reproductive purposes. The story follows Offred, a Handmaid, as she navigates the oppressive regime and seeks her own freedom. Margaret Atwood's work delves into themes of power, gender, and resistance.
+1
+28
+The Alchemist
+Paulo Coelho
+Philosophical Fiction
+978-0-06-112241-5
+"The Alchemist" is a philosophical novel that follows Santiago, a shepherd, on his journey to discover his personal legend and fulfill his dreams. As he travels through the desert, he encounters wisdom, love, and the importance of following one's heart. Paulo Coelho's work is a timeless exploration of destiny, spirituality, and the pursuit of happiness.
+1
+29
+The Road Not Taken
+Robert Frost
+Poetry
+N/A
+"The Road Not Taken" is a classic poem by Robert Frost that reflects on the choices and decisions people make in life. It explores the idea of individuality and the impact of the paths we choose. This short but powerful poem is widely studied and cherished for its profound message.
+1
+30
+Fahrenheit 451
+Ray Bradbury
+Dystopian Science Fiction
+978-1-4391-6641-9
+"Fahrenheit 451" is a dystopian science fiction novel that envisions a future where books are banned, and firemen are tasked with burning them. The story follows Guy Montag, a fireman who begins to question the society's suppression of knowledge. Ray Bradbury's work delves into themes of censorship, intellectual freedom, and the power of literature.
+1
+31
+The Count of Monte Cristo
+Alexandre Dumas
+Adventure Fiction
+978-0-14-044926-6
+"The Count of Monte Cristo" is an adventure novel that tells the story of Edmond Dantès, who is wrongfully imprisoned and seeks revenge against those who betrayed him. As he amasses wealth and power, he becomes the enigmatic Count of Monte Cristo. Alexandre Dumas' work explores themes of justice, vengeance, and the complexities of human nature.
+1
+32
+One Hundred Years of Solitude
+Gabriel Garca Mrquez
+Magical Realism
+978-0-06-112009-1
+"One Hundred Years of Solitude" is a masterpiece of magical realism that traces the history of the Buendía family in the fictional town of Macondo. Gabriel García Márquez's work weaves together elements of fantasy, folklore, and reality, creating a rich tapestry of storytelling that explores the cyclical nature of history and human experience.
+1
+33
+Crime and Punishment
+Fyodor Dostoevsky
+Psychological Fiction
+978-0-679-64253-3
+"Crime and Punishment" is a psychological novel that follows the life of Raskolnikov, a former student who commits a murder and grapples with the moral and psychological consequences of his actions. Fyodor Dostoevsky's work delves into themes of guilt, redemption, and the complexities of the human psyche.
+1
+34
+The Picture of Dorian Gray
+Oscar Wilde
+Gothic Fiction
+978-0-19-953598-9
+"The Picture of Dorian Gray" is a gothic novel that explores the consequences of vanity and moral decay. The story follows Dorian Gray, a young man whose portrait ages while he remains youthful, allowing him to indulge in a life of hedonism without consequences. Oscar Wilde's work examines themes of art, beauty, and the corrupting influence of society.
+1
+35
+A Tale of Two Cities
+Charles Dickens
+Historical Fiction
+978-1-85326-393-2
+"A Tale of Two Cities" is a historical novel set during the tumultuous times of the French Revolution. The story follows characters in both London and Paris as they navigate love, sacrifice, and the pursuit of justice. Charles Dickens' work is a compelling exploration of the contrasts between two cities and the impact of revolution on society.
+1
+36
+The Grapes of Wrath
+John Steinbeck
+Social Realism
+978-0-14-200066-3
+"The Grapes of Wrath" is a social realist novel that depicts the struggles of the Joad family as they migrate westward during the Great Depression. John Steinbeck's work explores themes of poverty, social injustice, and the resilience of the human spirit in the face of adversity.
+1
+37
+The Giver
+Lois Lowry
+Dystopian Fiction
+978-0-395-64566-6
+"The Giver" is a dystopian novel set in a seemingly perfect society where memories and emotions are controlled. The story follows Jonas, a young boy selected to receive the memories of the past, and as he gains knowledge, he begins to question the society's conformity. Lois Lowry's work explores themes of individuality, memory, and the consequences of a controlled existence.
+1
+38
+The Secret Garden
+Frances Hodgson Burnett
+Children's Literature
+978-0-486-27541-1
+"The Secret Garden" is a classic children's novel that tells the story of Mary Lennox, a spoiled and lonely girl who discovers a hidden, neglected garden on her uncle's estate. As she works to restore the garden, she undergoes a transformation and helps heal those around her. Frances Hodgson Burnett's work is a timeless exploration of growth, nature, and the power of friendship.
+1
+39
+The Immortal Life of ...
+Rebecca Skloot
+Non-Fiction
+978-1-4000-5217-2
+"The Immortal Life of Henrietta Lacks" is a non-fiction book that explores the story of Henrietta Lacks, a woman whose cancer cells were taken without her knowledge and became the foundation for groundbreaking medical research. Rebecca Skloot's work delves into issues of ethics, scientific discovery, and the impact on Henrietta's family.
+1
+40
+Siddhartha
+Hermann Hesse
+Spiritual Fiction
+978-0-14-243718-6
+"Siddhartha" is a spiritual novel that follows the life of Siddhartha, a young man on a journey of self-discovery and enlightenment in ancient India. Hermann Hesse's work delves into themes of spirituality, self-realization, and the search for meaning.
+1
+41
+Neverwhere
+Neil Gaiman
+Urban Fantasy
+978-0-06-282133-1
+"Neverwhere" is an urban fantasy novel that follows Richard Mayhew, an ordinary man who stumbles into the hidden and magical world of London Below. Neil Gaiman's work is a dark and imaginative exploration of the hidden layers of a familiar city and the adventures that await.
+1
+42
+The Sun Also Rises
+Ernest Hemingway
+Modernist Fiction
+978-0-7432-7355-8
+"The Sun Also Rises" is a modernist novel that follows a group of American and British expatriates as they travel to Spain and attend the running of the bulls in Pamplona. The story explores the disillusionment of the Lost Generation after World War I. Ernest Hemingway's work is a reflection of the aimlessness and moral bankruptcy of the era.
+1
+43
+The Wind-Up Bird Chronicle
+Haruki Murakami
+Magical Realism
+978-0-679-75188-6
+"The Wind-Up Bird Chronicle" is a magical realism novel that follows Toru Okada as he embarks on a surreal and metaphysical journey to find his missing wife. Haruki Murakami's work is known for its dreamlike and mysterious narrative, blurring the lines between reality and fantasy.
+1
+44
+The Nightingale
+Kristin Hannah
+Historical Fiction
+978-1-250-06063-1
+"The Nightingale" is a historical novel set in Nazi-occupied France during World War II. It tells the story of two sisters, Vianne and Isabelle, who find themselves in very different roles of resistance and survival. Kristin Hannah's work is a poignant exploration of love, sacrifice, and the strength of women during wartime.
+1
+45
+The Name of the Wind
+Patrick Rothfuss
+Epic Fantasy
+978-0-7564-0474-1
+"The Name of the Wind" is an epic fantasy novel that follows the life of Kvothe, a gifted musician, magician, and adventurer. He recounts his life story, from his childhood in a troupe of traveling performers to his time at a magical university. Patrick Rothfuss's work is a rich and immersive fantasy tale.
+1
+46
+The Color Purple
+Alice Walker
+Historical Fiction
+978-0-15-603182-0
+"The Color Purple" is a historical novel that follows the life of Celie, an African American woman in the early 20th century South. Through a series of letters, she tells her story of overcoming abuse, finding her voice, and forming deep connections with other women. Alice Walker's work is a powerful exploration of race, gender, and resilience.
+1
+47
+sada
+
+
+
+
+1
