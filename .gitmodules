@@ -1,3 +1,6 @@
 [submodule "DS-Project"]
 	path = DS-Project
 	url = https://github.com/Moosayed1/DS-Project
+[submodule "Clinic-System"]
+	path = Clinic-System
+	url = https://github.com/AnonMiraj/Clinic-System
