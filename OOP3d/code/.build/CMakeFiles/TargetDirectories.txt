@@ -1,4 +1,0 @@
-/home/ezz/OOP3dr/code/.build/CMakeFiles/main_library.dir
-/home/ezz/OOP3dr/code/.build/CMakeFiles/main.dir
-/home/ezz/OOP3dr/code/.build/CMakeFiles/edit_cache.dir
-/home/ezz/OOP3dr/code/.build/CMakeFiles/rebuild_cache.dir

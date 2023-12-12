@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmain_library.a CMakeFiles/main_library.dir/src/hrSystem.cpp.o CMakeFiles/main_library.dir/src/department.cpp.o CMakeFiles/main_library.dir/src/employee.cpp.o CMakeFiles/main_library.dir/src/hourlyemployee.cpp.o CMakeFiles/main_library.dir/src/commissionemployee.cpp.o CMakeFiles/main_library.dir/src/salariedemployee.cpp.o CMakeFiles/main_library.dir/src/manageremployee.cpp.o CMakeFiles/main_library.dir/src/benefit.cpp.o CMakeFiles/main_library.dir/src/dentalBenefit.cpp.o CMakeFiles/main_library.dir/src/healthBenefit.cpp.o
-/usr/bin/ranlib libmain_library.a
