@@ -4,3 +4,12 @@
 [submodule "Clinic-System"]
 	path = Clinic-System
 	url = https://github.com/AnonMiraj/Clinic-System
+[submodule "treegram/DS-Tree"]
+	path = treegram/DS-Tree
+	url = https://github.com/MooSayed1/DS-Tree
+[submodule "treegram/treeApp"]
+	path = treegram/treeApp
+	url = https://github.com/MooSayed1/treeApp
+[submodule "treegram/tree-gram-site-"]
+	path = treegram/tree-gram-site-
+	url = https://github.com/Gharbawy1/tree-gram-site-
